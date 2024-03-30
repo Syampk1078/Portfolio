@@ -12,4 +12,4 @@ Embark on the journey of creating your own portfolio website! Showcase your proj
 
 **Demo Clip**: https://github.com/Syampk1078/Portfolio/assets/119304851/3791ef80-7dbf-465e-92cf-7e5221402e79
 
-Ready to embark on this journey? Dive in and enhance your web development skills!
+🎯 Ready to embark on this journey? Dive in and enhance your web development skills!
