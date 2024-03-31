@@ -11,6 +11,8 @@ Embark on the journey of creating your own portfolio website! Showcase your proj
 
 <a href="https://syampk1078.github.io/Portfolio/"><img width="40" height="50" src="https://github.com/Syampk1078/Portfolio/assets/119304851/de3c33ec-4fcc-4220-b144-85961d0fd857"></a>
 
+<hr>
+
 ![Screenshot 2024-02-18 152357](https://github.com/Syampk1078/Portfolio/assets/119304851/2fd8bf6a-09ce-43dc-84bb-168cd64eb961)
 
 **Demo Clip**: https://github.com/Syampk1078/Portfolio/assets/119304851/3791ef80-7dbf-465e-92cf-7e5221402e79
